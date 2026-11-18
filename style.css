@@ -122,7 +122,7 @@ body {
 }
 
 .from-msg-text {
-    color: white;
+    color: rgb(223, 168, 139);
 }
 
 .msg-time {
@@ -135,7 +135,7 @@ body {
 }
 
 .from-msg-time {
-    color: #77b7ff;
+    color: #a2fb9e5c;
 }
 
 .to-msg-time {
